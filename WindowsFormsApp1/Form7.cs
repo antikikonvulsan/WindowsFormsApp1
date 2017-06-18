@@ -22,5 +22,10 @@ namespace WindowsFormsApp1
             MessageBox.Show("asdsad");
             MessageBox.Show("asdsad");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("asdsad");
+        }
     }
 }
