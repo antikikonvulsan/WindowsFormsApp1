@@ -21,7 +21,6 @@ namespace WindowsFormsApp1
         {
             MessageBox.Show("asdsad");
 
-            MessageBox.Show("asdsad");
         }
     }
 }
