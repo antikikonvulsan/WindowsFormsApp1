@@ -20,7 +20,7 @@ namespace WindowsFormsApp1
         private void Form7_Load(object sender, EventArgs e)
         {
             MessageBox.Show("asdsad");
-
+            MessageBox.Show("asdsad");
         }
     }
 }
